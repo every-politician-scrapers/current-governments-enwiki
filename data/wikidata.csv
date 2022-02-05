@@ -1,14 +1,6 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
-Q108582408,Presidency of Kassym-Jomart Tokayev,,,,,,,,,,
-Q108803115,Second Hussein Arnous government,,,,,,,,,Q640506,cabinet
-Q108822156,Channi ministry,,,,,,,,,,
-Q109255408,Hajiji cabinet,,,,,Q179029,Sabah,Q833,Malaysia,Q640506,cabinet
-Q109806885,Second cabinet of Katrín Jakobsdóttir,,,,,,,Q189,Iceland,Q3354110,Cabinet of Iceland
 Q2613132,Government of Georgia,,,,,Q230,Georgia,Q230,Georgia,,
 Q313827,Cabinet of the Federal Republic of Germany,,,,,Q183,Germany,Q183,Germany,Q7188,government
-Q42954533,Maltese Government 2017–2022,,,,,Q233,Malta,Q233,Malta,Q5589242,Government of Malta
-Q48732683,Jai Ram Thakur ministry,,,,,,,,,,
-Q48814975,Presidency of Muhammadu Buhari,,,,,,,,,,
 Q5015520,Cabinet of Jamaica,,,,,Q766,Jamaica,Q766,Jamaica,,
 Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
 Q603838,Cabinet of Afghanistan,,,,,Q889,Afghanistan,,,,
@@ -17,11 +9,14 @@ Q997640,Council of Ministers of the Republic of Belarus,,,,,Q184,Belarus,Q184,Be
 Q529012,Cabinet of Japan,1885-12-22,11,,,Q17,Japan,Q17,Japan,,
 Q2137649,Cabinet of Liechtenstein,1921-01-01,9,,,Q347,Liechtenstein,Q347,Liechtenstein,Q7188,government
 Q13410372,Cabinet of Azerbaijan,1991-01-01,9,,,Q227,Azerbaijan,Q227,Azerbaijan,Q7188,government
+Q48814975,Presidency of Muhammadu Buhari,2015-05-29,11,,,Q1033,Nigeria,Q1033,Nigeria,,
 Q21188948,29th Canadian Ministry,2015-11-04,11,,,Q16,Canada,Q16,Canada,Q2458227,Cabinet of Canada
 Q28419419,Hamas government of 2016,2016-10-17,11,2016-11-30,11,Q39760,Gaza Strip,,,Q640506,cabinet
 Q104540689,presidency of Nana Akufo-Addo,2017-01-01,9,,,,,Q117,Ghana,Q15284636,presidential term
+Q42954533,Maltese Government 2017–2022,2017-06-09,11,,,Q233,Malta,Q233,Malta,Q5589242,Government of Malta
 Q42293409,Third Rutte cabinet,2017-10-26,11,2022-01-10,11,Q55,Netherlands,Q55,Netherlands,Q2479200,Cabinet of the Netherlands
 Q42314738,Sixth Labour Government of New Zealand,2017-10-26,11,,,Q664,New Zealand,Q664,New Zealand,Q3526359,Government of New Zealand
+Q48732683,Jai Ram Thakur ministry,2017-12-27,11,,,Q1177,Himachal Pradesh,Q668,India,,
 Q50083161,Second Anastasiades government,2018-03-01,11,2023-02-28,11,Q229,Cyprus,Q229,Cyprus,Q16146568,Council of Ministers of Cyprus
 Q50083161,Second Anastasiades government,2018-03-01,11,2023-02-28,11,Q229,Cyprus,Q229,Cyprus,Q19358292,Government of Cyprus Republic
 Q52225870,Fourth cabinet of Viktor Orbán,2018-05-18,11,,,Q28,Hungary,,,Q1162751,Government of Hungary
@@ -33,6 +28,7 @@ Q56274194,Presidency of Andrés Manuel López Obrador,2018-12-01,11,,,,,Q96,Mexi
 Q59461371,Bettel–Schneider Ministry II,2018-12-05,11,2020-02-04,11,Q32,Luxembourg,Q32,Luxembourg,Q21479996,Government of Luxembourg
 Q58493777,government of Jair Bolsonaro,2019-01-01,11,2023-01-01,11,,,Q155,Brazil,Q15284636,presidential term
 Q60890402,Kariņš cabinet,2019-01-23,11,,,Q211,Latvia,Q211,Latvia,Q2502537,Government of Latvia
+Q108582408,Presidency of Kassym-Jomart Tokayev,2019-03-20,11,,,,,,,,
 Q87367437,Palestinian government of 2019,2019-04-13,11,,,Q219060,State of Palestine,Q219060,State of Palestine,Q640506,cabinet
 Q64167569,Second Cabinet of Cyril Ramaphosa,2019-05-29,11,,,Q258,South Africa,Q258,South Africa,Q634678,Cabinet of South Africa
 Q65072634,Second Morrison Ministry,2019-05-29,11,,,Q408,Australia,Q408,Australia,Q2028178,Cabinet of Australia
@@ -61,6 +57,7 @@ Q97667547,Fifth Lee Hsien Loong Cabinet,2020-07-27,11,,,Q334,Singapore,Q334,Sing
 Q99749625,De Croo government,2020-10-01,11,,,Q31,Belgium,Q31,Belgium,Q390947,Federal Government of Belgium
 Q100261677,Bisher Al-Khasawneh Cabinet,2020-10-12,11,,,Q810,Jordan,Q810,Jordan,Q5015522,Cabinet of Jordan
 Q100858235,Second cabinet of Ana Brnabić,2020-10-28,11,,,Q403,Serbia,Q403,Serbia,Q30301644,Cabinet of Serbia
+Q109255408,Hajiji cabinet,2020-10-29,11,,,Q179029,Sabah,Q833,Malaysia,Q640506,cabinet
 Q101230919,Arce Cabinet,2020-11-09,11,,,Q750,Bolivia,Q750,Bolivia,Q5015499,Cabinet of Bolivia
 Q101558001,Šimonytė Cabinet,2020-12-11,11,,,Q37,Lithuania,,,Q29078891,Cabinet of Lithuania
 Q101369347,presidency of Joe Biden,2021-01-20,11,,,,,Q30,United States of America,Q15284636,presidential term
@@ -80,16 +77,19 @@ Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Is
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q2578249,cabinet of Israel
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q12406825,rotation government
 Q108044650,Basavaraj Bommai ministry,2021-07-28,11,,,Q1185,Karnataka,,,Q640506,cabinet
+Q108803115,Second Hussein Arnous government,2021-08-10,11,,,Q858,Syria,Q858,Syria,Q640506,cabinet
 Q108168800,Ismail Sabri cabinet,2021-08-21,11,,,,,,,Q846488,Cabinet of Malaysia
 Q108487252,Third Cabinet of Najib Mikati,2021-09-10,11,,,,,,,Q5015526,Cabinet of Lebanon
 Q108559722,2nd Yanev Government,2021-09-16,11,2021-12-13,11,Q219,Bulgaria,Q219,Bulgaria,Q2396053,Council of Ministers
 Q108441164,Rama III Government,2021-09-17,11,,,Q222,Albania,Q222,Albania,Q3302931,Cabinet of Albania
+Q108822156,Channi ministry,2021-09-20,11,,,Q22424,Punjab,Q668,India,Q3306996,Government of Punjab
 Q108866852,Bouden Cabinet,2021-10-11,11,,,,,Q948,Tunisia,Q526548,Government of Tunisia
 Q108870524,Støre's Cabinet,2021-10-14,11,,,,,Q20,Norway,Q1770849,Government of Norway
 Q109342903,Second Kishida Cabinet,2021-11-10,11,,,,,Q17,Japan,Q529012,Cabinet of Japan
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q837416,coalition government
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q12406825,rotation government
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q30301632,Cabinet of Romania
+Q109806885,Second cabinet of Katrín Jakobsdóttir,2021-11-28,11,,,,,Q189,Iceland,Q3354110,Cabinet of Iceland
 Q109705067,Andersson Cabinet,2021-11-30,11,,,Q34,Sweden,Q34,Sweden,Q930729,Government of Sweden
 Q109907459,Nehammer government,2021-12-06,11,,,Q40,Austria,Q40,Austria,Q695599,Austrian Federal Government
 Q109712556,Scholz cabinet,2021-12-08,11,,,Q183,Germany,Q183,Germany,Q313827,Cabinet of the Federal Republic of Germany
