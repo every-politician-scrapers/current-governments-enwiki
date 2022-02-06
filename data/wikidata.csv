@@ -1,4 +1,5 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
+Q110612600,Second Garibashvili government,,,,,,,,,Q640506,cabinet
 Q313827,Cabinet of the Federal Republic of Germany,,,,,Q183,Germany,Q183,Germany,Q7188,government
 Q5015520,Cabinet of Jamaica,,,,,Q766,Jamaica,Q766,Jamaica,,
 Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
@@ -56,7 +57,6 @@ Q100858235,Second cabinet of Ana Brnabić,2020-10-28,11,,,Q403,Serbia,Q403,Serbi
 Q109255408,Hajiji cabinet,2020-10-29,11,,,Q179029,Sabah,Q833,Malaysia,Q640506,cabinet
 Q101230919,Arce Cabinet,2020-11-09,11,,,Q750,Bolivia,Q750,Bolivia,Q5015499,Cabinet of Bolivia
 Q101558001,Šimonytė Cabinet,2020-12-11,11,,,Q37,Lithuania,,,Q29078891,Cabinet of Lithuania
-Q109373930,Second Gakharia government,2020-12-24,11,,,Q230,Georgia,,,Q2613132,Government of Georgia
 Q101369347,presidency of Joe Biden,2021-01-20,11,,,,,Q30,United States of America,Q15284636,presidential term
 Q105071498,Kaja Kallas' cabinet,2021-01-26,11,,,Q191,Estonia,Q191,Estonia,Q2421589,Government of Estonia
 Q105222924,Min Aung Hlaing's Military Cabinet,2021-02-01,11,,,,,,,Q5015506,Cabinet of Myanmar
