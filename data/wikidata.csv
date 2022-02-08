@@ -1,5 +1,4 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
-Q110612600,Second Garibashvili government,,,,,,,,,Q640506,cabinet
 Q313827,Cabinet of the Federal Republic of Germany,,,,,Q183,Germany,Q183,Germany,Q7188,government
 Q5015520,Cabinet of Jamaica,,,,,Q766,Jamaica,Q766,Jamaica,,
 Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
@@ -62,6 +61,7 @@ Q105071498,Kaja Kallas' cabinet,2021-01-26,11,,,Q191,Estonia,Q191,Estonia,Q24215
 Q105222924,Min Aung Hlaing's Military Cabinet,2021-02-01,11,,,,,,,Q5015506,Cabinet of Myanmar
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q327922,national unity government
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q3773971,Government of Italy
+Q110612600,Second Garibashvili government,2021-02-22,11,,,Q230,Georgia,Q230,Georgia,Q2613132,Government of Georgia
 Q106131506,Second Kurti cabinet,2021-03-22,11,,,Q1246,Kosovo,Q1246,Kosovo,Q107600990,Cabinet of Kosovo
 Q106303161,Heger's Cabinet,2021-04-01,11,,,Q214,Slovakia,Q214,Slovakia,Q3495267,Government of Slovakia
 Q106866588,Lukonde cabinet,2021-04-12,11,,,Q974,Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Q3112604,Government of the Democratic Republic of the Congo
