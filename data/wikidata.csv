@@ -1,6 +1,4 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
-Q105742549,Government of National Unity,,,,,,,Q1016,Libya,Q59281,provisional government
-Q24884049,Presidency of Rodrigo Duterte,,,,,,,,,,
 Q5015520,Cabinet of Jamaica,,,,,Q766,Jamaica,Q766,Jamaica,,
 Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
 Q603838,Cabinet of Afghanistan,,,,,Q889,Afghanistan,,,,
@@ -11,6 +9,7 @@ Q13410372,Cabinet of Azerbaijan,1991-01-01,9,,,Q227,Azerbaijan,Q227,Azerbaijan,Q
 Q10871995,Li Keqiang Government,2013-03-15,11,,,,,Q148,People's Republic of China,Q936190,Government of the People's Republic of China
 Q21188948,29th Canadian Ministry,2015-11-04,11,,,Q16,Canada,Q16,Canada,Q2458227,Cabinet of Canada
 Q25052705,Cabinet of President Muhammadu Buhari,2015-11-11,11,,,Q1033,Nigeria,,,Q5015542,Cabinet of Nigeria
+Q24884049,Presidency of Rodrigo Duterte,2016-06-30,11,,,Q928,Philippines,Q928,Philippines,,
 Q28419419,Hamas government of 2016,2016-10-17,11,2016-11-30,11,Q39760,Gaza Strip,,,Q640506,cabinet
 Q39054343,Cabinet of Nana Akuffo-Addo,2017-05-01,10,,,Q117,Ghana,Q117,Ghana,Q47092681,Cabinet of Ghana
 Q42954533,Maltese Government 2017–2022,2017-06-09,11,,,Q233,Malta,Q233,Malta,Q5589242,Government of Malta
@@ -64,6 +63,7 @@ Q105222924,Min Aung Hlaing's Military Cabinet,2021-02-01,11,,,,,,,Q5015506,Cabin
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q327922,national unity government
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q3773971,Government of Italy
 Q110612600,Second Garibashvili government,2021-02-22,11,,,Q230,Georgia,Q230,Georgia,Q2613132,Government of Georgia
+Q105742549,Government of National Unity,2021-03-15,11,,,,,Q1016,Libya,Q59281,provisional government
 Q106131506,Second Kurti cabinet,2021-03-22,11,,,Q1246,Kosovo,Q1246,Kosovo,Q107600990,Cabinet of Kosovo
 Q106303161,Heger's Cabinet,2021-04-01,11,,,Q214,Slovakia,Q214,Slovakia,Q3495267,Government of Slovakia
 Q106866588,Lukonde cabinet,2021-04-12,11,,,Q974,Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Q3112604,Government of the Democratic Republic of the Congo
