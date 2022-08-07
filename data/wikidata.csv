@@ -1,7 +1,6 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
 Q111973484,List of current governments,,,,,,,,,Q13406463,Wikimedia list article
 Q16148206,Cabinet of Uganda,,,,,Q1036,Uganda,,,,
-Q17005906,Cabinet of Ecuador,,,,,Q736,Ecuador,,,,
 Q2607174,Federal Cabinet of Pakistan,,,,,Q843,Pakistan,,,,
 Q5015520,Cabinet of Jamaica,,,,,Q766,Jamaica,Q766,Jamaica,,
 Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
@@ -85,6 +84,7 @@ Q106765249,Third Mamata Banerjee ministry,2021-05-10,11,,,Q1356,West Bengal,,,Q5
 Q106959152,Sarma ministry,2021-05-10,11,,,Q1164,Assam,,,Q640506,cabinet
 Q106874092,Second Drakeford government,2021-05-13,11,,,Q25,Wales,Q145,United Kingdom,Q32859630,Cabinet of Wales
 Q106906168,Government of the 6th Scottish Parliament,2021-05-19,11,,,Q22,Scotland,Q145,United Kingdom,Q32859621,Cabinet of Scotland
+Q106481416,Gobierno de Guillermo Lasso,2021-05-24,11,,,,,Q736,Ecuador,Q17005906,Cabinet of Ecuador
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q837416,coalition government
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q2578249,cabinet of Israel
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q12406825,rotation government
@@ -108,7 +108,7 @@ Q109907459,Nehammer government,2021-12-06,11,,,Q40,Austria,Q40,Austria,Q695599,A
 Q109712556,Scholz cabinet,2021-12-08,11,,,Q183,Germany,Q183,Germany,Q313827,Cabinet of the Federal Republic of Germany
 Q110026114,Petkov Government,2021-12-13,11,2022-08-02,11,Q219,Bulgaria,,,Q2396053,Council of Ministers
 Q109453202,Petr Fiala's Cabinet,2021-12-17,11,,,Q213,Czechia,Q213,Czechia,Q5015587,Government of the Czech Republic
-Q110300636,39th Cabinet of Kuwait,2021-12-28,11,,,Q817,Kuwait,,,Q5015525,Cabinet of Kuwait
+Q110300636,39th Cabinet of Kuwait,2021-12-28,11,2022-08-01,11,Q817,Kuwait,,,Q5015525,Cabinet of Kuwait
 Q110111120,Fourth Rutte cabinet,2022-01-10,11,,,Q55,Netherlands,Q55,Netherlands,Q2479200,Cabinet of the Netherlands
 Q110534538,Smaiylov Cabinet,2022-01-11,11,,,Q232,Kazakhstan,Q232,Kazakhstan,Q21686038,Cabinet of Kazakhstan
 Q111242592,Mann ministry,2022-03-16,11,,,Q22424,Punjab,Q668,India,Q3306996,Government of Punjab
