@@ -1,9 +1,5 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
 Q111973484,List of current governments,,,,,,,,,Q13406463,Wikimedia list article
-Q112169101,Manik Saha ministry,,,,,,,,,Q640506,cabinet
-Q112642528,Q112642528,,,,,,,,,,
-Q113101802,Eknath Shinde ministry,,,,,,,,,Q640506,cabinet
-Q113484606,Achi II government,,,,,,,,,,
 Q15579106,Council of Ministers (Cambodia),,,,,Q424,Cambodia,,,,
 Q16148206,Cabinet of Uganda,,,,,Q1036,Uganda,,,,
 Q2607174,Federal Cabinet of Pakistan,,,,,Q843,Pakistan,,,,
@@ -110,7 +106,6 @@ Q108487252,Third Cabinet of Najib Mikati,2021-09-10,11,,,Q822,Lebanon,,,Q5015526
 Q108441164,Rama III Government,2021-09-17,11,,,Q222,Albania,Q222,Albania,Q3302931,Cabinet of Albania
 Q108866852,Bouden Cabinet,2021-10-11,11,,,Q948,Tunisia,Q948,Tunisia,Q526548,Government of Tunisia
 Q108870524,Støre's Cabinet,2021-10-14,11,,,Q20,Norway,Q20,Norway,Q1770849,Government of Norway
-Q109342903,Second Kishida Cabinet,2021-11-10,11,2022-08-10,11,Q17,Japan,Q17,Japan,Q529012,Cabinet of Japan
 Q109502333,Q109502333,2021-11-15,11,,,Q1196,Mecklenburg-Western Pomerania,,,Q640506,cabinet
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q837416,coalition government
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q12406825,rotation government
@@ -129,7 +124,9 @@ Q110819776,XXIII Constitutional Government of Portugal,2022-03-30,11,,,Q45,Portu
 Q111439067,2nd Abela Cabinet,2022-03-30,11,,,Q233,Malta,Q233,Malta,Q3112083,Cabinet of Malta
 Q113115745,Second government of Mohamed Ould Bilal,2022-04-01,11,,,,,,,Q3112595,Government of Mauritania
 Q111655375,Shehbaz Sharif Cabinet,2022-04-19,11,,,Q843,Pakistan,,,Q2607174,Federal Cabinet of Pakistan
+Q113484606,Achi II government,2022-04-20,11,,,Q1008,Ivory Coast,Q1008,Ivory Coast,Q640506,cabinet
 Q111993595,Cabinet of Yoon Suk-yeol,2022-05-10,11,,,Q884,South Korea,Q884,South Korea,Q12585780,State Council of South Korea
+Q112169101,Manik Saha ministry,2022-05-14,11,,,Q1363,Tripura,,,Q640506,cabinet
 Q112042684,1st Borne government,2022-05-16,11,,,Q142,France,,,Q1450662,Government of France
 Q112042684,1st Borne government,2022-05-16,11,,,Q142,France,,,Q2993836,Council of Ministers
 Q112114760,Albanese ministry,2022-05-23,11,,,Q408,Australia,Q408,Australia,Q2028178,Cabinet of Australia
@@ -137,6 +134,8 @@ Q111475445,Fifth Orbán Government,2022-05-24,11,,,Q28,Hungary,Q28,Hungary,Q1162
 Q112121256,15th Government of Slovenia,2022-05-25,11,,,Q215,Slovenia,Q215,Slovenia,Q19901640,Cabinet of Slovenia
 Q112671091,Second Günther cabinet,2022-06-29,11,,,Q1194,Schleswig-Holstein,Q183,Germany,Q314729,state government in Germany
 Q112666394,Presidency of Bongbong Marcos,2022-06-30,11,,,Q928,Philippines,Q928,Philippines,Q15284636,presidential term
+Q113101802,Eknath Shinde ministry,2022-06-30,11,,,Q1191,Maharashtra,,,Q640506,cabinet
 Q113136898,Kaja Kallas' second cabinet,2022-07-18,11,,,Q191,Estonia,Q191,Estonia,Q2421589,Government of Estonia
 Q113236919,Wickremesinghe cabinet,2022-07-22,11,,,Q854,Sri Lanka,Q854,Sri Lanka,Q3783006,Cabinet of Sri Lanka
+Q112642528,Cabinet of Gustavo Petro,2022-08-07,11,,,Q739,Colombia,Q739,Colombia,Q3315497,Council of Ministers of Colombia
 Q113462430,Second Kishida Cabinet (reshuffled),2022-08-10,11,,,,,Q17,Japan,Q529012,Cabinet of Japan
