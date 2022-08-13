@@ -1,6 +1,5 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
 Q111973484,List of current governments,,,,,,,,,Q13406463,Wikimedia list article
-Q15579106,Council of Ministers (Cambodia),,,,,Q424,Cambodia,,,,
 Q16148206,Cabinet of Uganda,,,,,Q1036,Uganda,,,,
 Q2607174,Federal Cabinet of Pakistan,,,,,Q843,Pakistan,,,,
 Q4710950,Albert Pahimi Padacké,,,,,,,,,Q5,human
@@ -12,6 +11,7 @@ Q997640,Council of Ministers of the Republic of Belarus,,,,,Q184,Belarus,Q184,Be
 Q2137649,Cabinet of Liechtenstein,1921-01-01,9,,,Q347,Liechtenstein,Q347,Liechtenstein,Q7188,government
 Q13410372,Cabinet of Azerbaijan,1991-01-01,9,,,Q227,Azerbaijan,Q227,Azerbaijan,Q7188,government
 Q10871995,Li Keqiang Government,2013-03-15,11,,,Q148,People's Republic of China,Q148,People's Republic of China,Q936190,Government of the People's Republic of China
+Q15579106,Cabinet of Hun Sen,2013-09-24,11,,,Q424,Cambodia,,,Q18210582,Cabinet of Cambodia
 Q21188948,29th Canadian Ministry,2015-11-04,11,,,Q16,Canada,Q16,Canada,Q2458227,Cabinet of Canada
 Q28419419,Hamas government of 2016,2016-10-17,11,2016-11-30,11,Q39760,Gaza Strip,,,Q640506,cabinet
 Q39054343,Cabinet of Nana Akuffo-Addo,2017-05-01,10,,,Q117,Ghana,Q117,Ghana,Q47092681,Cabinet of Ghana
