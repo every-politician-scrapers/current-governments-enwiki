@@ -1,4 +1,5 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
+Q106076357,14th Cabinet of North Korea,,,,,,,,,,
 Q111973484,List of current governments,,,,,,,,,Q13406463,Wikimedia list article
 Q12208534,Cabinet of Morocco,,,,,Q1028,Morocco,,,,
 Q16148206,Cabinet of Uganda,,,,,Q1036,Uganda,,,,
@@ -9,6 +10,7 @@ Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
 Q603838,Cabinet of Afghanistan,,,,,Q889,Afghanistan,,,,
 Q997640,Council of Ministers of the Republic of Belarus,,,,,Q184,Belarus,Q184,Belarus,Q7188,government
 Q997640,Council of Ministers of the Republic of Belarus,,,,,Q184,Belarus,Q184,Belarus,Q35798,executive branch
+,,,,,,,,,,,
 Q2137649,Cabinet of Liechtenstein,1921-01-01,9,,,Q347,Liechtenstein,Q347,Liechtenstein,Q7188,government
 Q13410372,Cabinet of Azerbaijan,1991-01-01,9,,,Q227,Azerbaijan,Q227,Azerbaijan,Q7188,government
 Q10871995,Li Keqiang Government,2013-03-15,11,,,Q148,People's Republic of China,Q148,People's Republic of China,Q936190,Government of the People's Republic of China
@@ -100,6 +102,7 @@ Q106481416,Gobierno de Guillermo Lasso,2021-05-24,11,,,,,Q736,Ecuador,Q55645704,
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q837416,coalition government
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q2578249,cabinet of Israel
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q12406825,rotation government
+Q107447224,Benabderrahmane Cabinet,2021-07-07,11,,,Q262,Algeria,Q262,Algeria,Q5015487,Cabinet of Algeria
 Q108044650,Basavaraj Bommai ministry,2021-07-28,11,,,Q1185,Karnataka,,,Q640506,cabinet
 Q108128269,Third Pashinyan government,2021-08-02,11,,,Q399,Armenia,Q399,Armenia,Q30588103,Cabinet of Armenia
 Q107849269,Gavrilița Cabinet,2021-08-06,11,,,Q217,Moldova,Q217,Moldova,Q110300851,Cabinet of Moldova
@@ -108,7 +111,9 @@ Q108168800,Ismail Sabri cabinet,2021-08-21,11,,,Q833,Malaysia,Q833,Malaysia,Q846
 Q108487252,Third Cabinet of Najib Mikati,2021-09-10,11,,,Q822,Lebanon,,,Q5015526,Cabinet of Lebanon
 Q108441164,Rama III Government,2021-09-17,11,,,Q222,Albania,Q222,Albania,Q3302931,Cabinet of Albania
 Q108866852,Bouden Cabinet,2021-10-11,11,,,Q948,Tunisia,Q948,Tunisia,Q526548,Government of Tunisia
+Q109255623,Third Jarapov Cabinet,2021-10-13,11,,,,,,,Q24031608,Cabinet of Ministers of Kyrgyzstan
 Q108870524,Støre's Cabinet,2021-10-14,11,,,Q20,Norway,Q20,Norway,Q1770849,Government of Norway
+Q109046275,Q109046275,2021-10-21,11,,,,,Q1006,Guinea,Q52898208,Government of Guinea
 Q109342903,Second Kishida Cabinet,2021-11-10,11,2022-08-10,11,Q17,Japan,Q17,Japan,Q529012,Cabinet of Japan
 Q109502333,Q109502333,2021-11-15,11,,,Q1196,Mecklenburg-Western Pomerania,,,Q640506,cabinet
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q837416,coalition government
@@ -127,6 +132,7 @@ Q111242592,Mann ministry,2022-03-16,11,,,Q22424,Punjab,Q668,India,Q3306996,Gover
 Q110819776,XXIII Constitutional Government of Portugal,2022-03-30,11,,,Q45,Portugal,,,Q16850120,Council of Ministers
 Q111439067,2nd Abela Cabinet,2022-03-30,11,,,Q233,Malta,Q233,Malta,Q3112083,Cabinet of Malta
 Q113115745,Second government of Mohamed Ould Bilal,2022-04-01,11,,,,,,,Q3112595,Government of Mauritania
+Q111486937,Second Egede cabinet,2022-04-05,11,,,Q223,Greenland,,,Q10858355,Naalakkersuisut
 Q111655375,Shehbaz Sharif Cabinet,2022-04-19,11,,,Q843,Pakistan,,,Q2607174,Federal Cabinet of Pakistan
 Q113484606,Achi II government,2022-04-20,11,,,Q1008,Ivory Coast,Q1008,Ivory Coast,Q640506,cabinet
 Q111993595,Cabinet of Yoon Suk-yeol,2022-05-10,11,,,Q884,South Korea,Q884,South Korea,Q12585780,State Council of South Korea
