@@ -1,6 +1,7 @@
 id,name
 Q111973484,List of current governments
 Q65279005,8th Government of Azerbaijan
+Q106076357,14th Cabinet of North Korea
 Q112121256,15th Government of Slovenia
 Q110300636,39th Cabinet of Kuwait
 Q113484606,Achi II government
@@ -12,6 +13,7 @@ Q109037591,Anatole Collinet Makosso's government
 Q101230919,Cabinet of Luis Arce
 Q65965461,Government of Adrián Barbón
 Q108044650,Basavaraj Bommai ministry
+Q107447224,Benabderrahmane government
 Q59461371,Bettel–Schneider Ministry II
 Q100261677,Bisher Al-Khasawneh's Cabinet
 Q112042684,Borne government
@@ -39,8 +41,10 @@ Q66386582,Government of María Chivite
 Q109680585,Ciucă Cabinet
 Q99749625,De Croo Government
 Q105460407,Draghi Cabinet
+"",Drew ministry
+Q111486937,Second Egede cabinet
 Q113101802,Eknath Shinde ministry
-Q55435983,Cabinet Erdoğan IV
+Q55435983,66th Cabinet of Turkey
 Q30279918,First Günther cabinet
 Q109037626,Fourth Sall government
 Q64831553,Frederiksen Cabinet
@@ -71,6 +75,7 @@ Q112169101,Manik Saha ministry
 Q111242592,Mann ministry
 Q77972346,Marin Cabinet
 Q82455849,Mikhail Mishustin's Cabinet
+Q109046275,Mohamed Béavogui's government
 Q75110838,Second Cabinet of Mateusz Morawiecki
 Q60853935,First government of Juan Manuel Moreno
 Q97190793,Murad Ebrahim Cabinet
@@ -91,6 +96,7 @@ Q101369347,Presidency of Joe Biden
 Q108582408,Presidency of Kassym-Jomart Tokayev
 Q108441164,Rama III Government
 Q110111120,Fourth Rutte cabinet
+Q109255623,Sadyr Japarov's third government
 Q80922158,Second government of Pedro Sánchez
 Q97482082,Santokhi cabinet
 Q109712556,Scholz cabinet
