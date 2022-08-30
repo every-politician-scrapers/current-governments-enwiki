@@ -1,6 +1,5 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
 Q111973484,List of current governments,,,,,,,,,Q13406463,Wikimedia list article
-Q113638573,Government of National Stability,,,,,,,,,,
 Q12208534,Cabinet of Morocco,,,,,Q1028,Morocco,,,,
 Q16148206,Cabinet of Uganda,,,,,Q1036,Uganda,,,,
 Q2607174,Federal Cabinet of Pakistan,,,,,Q843,Pakistan,,,,
@@ -16,7 +15,7 @@ Q10871995,Li Keqiang Government,2013-03-15,11,,,Q148,People's Republic of China,
 Q15579106,Cabinet of Hun Sen,2013-09-24,11,,,Q424,Cambodia,,,Q18210582,Cabinet of Cambodia
 Q21188948,29th Canadian Ministry,2015-11-04,11,,,Q16,Canada,Q16,Canada,Q2458227,Cabinet of Canada
 Q28419419,Hamas government of 2016,2016-10-17,11,2016-11-30,11,Q39760,Gaza Strip,,,Q640506,cabinet
-Q39054343,Cabinet of Nana Akuffo-Addo,2017-05-01,10,,,Q117,Ghana,Q117,Ghana,Q47092681,Cabinet of Ghana
+Q39054343,1st Cabinet of Nana Akuffo-Addo,2017-05-01,10,2021-03-04,11,Q117,Ghana,Q117,Ghana,Q47092681,Cabinet of Ghana
 Q30279918,Cabinet Günther,2017-06-28,11,2022-06-29,11,Q1194,Schleswig-Holstein,,,,
 Q113115761,Horgan ministry,2017-07-18,11,,,,,,,Q5419816,Executive Council of British Columbia
 Q42314738,Sixth Labour Government of New Zealand,2017-10-26,11,,,Q664,New Zealand,Q664,New Zealand,Q3526359,Government of New Zealand
@@ -87,6 +86,7 @@ Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q327922,national u
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q3773971,Government of Italy
 Q110612600,Second Garibashvili government,2021-02-22,11,,,Q230,Georgia,Q230,Georgia,Q7188,government
 Q110612600,Second Garibashvili government,2021-02-22,11,,,Q230,Georgia,Q230,Georgia,Q2613132,Government of Georgia
+Q113638573,Government of National Stability,2021-03-10,11,,,Q1016,Libya,Q1016,Libya,Q640506,cabinet
 Q105742549,Government of National Unity,2021-03-15,11,,,Q1016,Libya,Q1016,Libya,Q59281,provisional government
 Q106131506,Second Kurti cabinet,2021-03-22,11,,,Q1246,Kosovo,Q1246,Kosovo,Q107600990,Cabinet of Kosovo
 Q106303161,Heger's Cabinet,2021-04-01,11,,,Q214,Slovakia,Q214,Slovakia,Q3495267,Government of Slovakia
