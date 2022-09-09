@@ -45,6 +45,7 @@ Q65046006,Second Pema Khandu ministry,2019-05-29,11,,,Q1162,Arunachal Pradesh,,,
 Q64210877,Second Modi ministry,2019-05-30,11,,,Q668,India,,,Q960484,Union Council of Ministers of India
 Q104855056,Cabinet of Nayib Bukele,2019-06-01,11,,,Q792,El Salvador,,,Q5589203,Government of El Salvador
 Q64831553,Frederiksen Cabinet,2019-06-27,11,,,Q35,Denmark,Q35,Denmark,Q1503072,Cabinet of Denmark
+Q65184515,Cabinet of Kyriakos Mitsotakis,2019-07-09,11,,,Q41,Greece,Q41,Greece,Q15260617,Government of Greece
 Q65184515,Cabinet of Kyriakos Mitsotakis,2019-07-09,11,,,Q41,Greece,Q41,Greece,Q16331915,Ministerial Council of Greece
 Q97230427,Second Prayut cabinet,2019-07-10,11,,,Q869,Thailand,Q869,Thailand,Q873368,Cabinet of Thailand
 Q65965461,Barbón Government,2019-07-22,11,,,Q3934,Asturias,,,Q640506,cabinet
@@ -58,7 +59,6 @@ Q65590503,Von der Leyen Commission,2019-12-01,11,,,Q458,European Union,,,Q8880,E
 Q77972346,Sanna Marin's cabinet,2019-12-10,11,,,Q33,Finland,Q33,Finland,Q2366737,Finnish Government
 Q77972346,Sanna Marin's cabinet,2019-12-10,11,,,Q33,Finland,Q33,Finland,Q2455328,majority government
 Q78155250,presidency of Alberto Fernández,2019-12-10,11,,,,,Q414,Argentina,Q3558349,presidency
-Q78347457,Second Johnson ministry,2019-12-16,11,,,Q145,United Kingdom,Q145,United Kingdom,Q112014,Cabinet of the United Kingdom
 Q97256455,Cabinet of Zoran Tegeltija,2019-12-23,11,,,Q225,Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Q5176455,Council of Ministers of Bosnia and Herzegovina
 Q80922158,Sánchez II Government,2020-01-13,11,,,Q29,Spain,Q29,Spain,Q1194749,Government of Spain
 Q66380860,Cabinet of Alejandro Giammattei,2020-01-14,11,,,Q774,Guatemala,,,Q2879802,Council of Ministers
@@ -104,6 +104,7 @@ Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Is
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q2578249,cabinet of Israel
 Q106306784,thirty-sixth government of Israel,2021-06-13,11,,,Q801,Israel,Q801,Israel,Q12406825,rotation government
 Q107447224,Benabderrahmane Cabinet,2021-07-07,11,,,Q262,Algeria,Q262,Algeria,Q5015487,Cabinet of Algeria
+Q107523776,"Fifth Deuba Cabinet, 2021",2021-07-13,11,,,Q837,Nepal,,,Q6567964,Council of Ministers of Nepal
 Q108044650,Basavaraj Bommai ministry,2021-07-28,11,,,Q1185,Karnataka,,,Q640506,cabinet
 Q108128269,Third Pashinyan government,2021-08-02,11,,,Q399,Armenia,Q399,Armenia,Q30588103,Cabinet of Armenia
 Q107849269,Gavrilița Cabinet,2021-08-06,11,,,Q217,Moldova,Q217,Moldova,Q110300851,Cabinet of Moldova
@@ -145,6 +146,7 @@ Q112121256,15th Government of Slovenia,2022-05-25,11,,,Q215,Slovenia,Q215,Sloven
 Q112671091,Second Günther cabinet,2022-06-29,11,,,Q1194,Schleswig-Holstein,Q183,Germany,Q314729,state government in Germany
 Q112666394,Presidency of Bongbong Marcos,2022-06-30,11,,,Q928,Philippines,Q928,Philippines,Q15284636,presidential term
 Q113101802,Eknath Shinde ministry,2022-06-30,11,,,Q1191,Maharashtra,,,Q640506,cabinet
+Q113136898,Kaja Kallas' second cabinet,2022-07-18,11,,,Q191,Estonia,Q191,Estonia,Q640506,cabinet
 Q113136898,Kaja Kallas' second cabinet,2022-07-18,11,,,Q191,Estonia,Q191,Estonia,Q2421589,Government of Estonia
 Q113236919,Wickremesinghe cabinet,2022-07-22,11,,,Q854,Sri Lanka,Q854,Sri Lanka,Q3783006,Cabinet of Sri Lanka
 Q113376096,Donev Government,2022-08-02,11,,,Q219,Bulgaria,Q219,Bulgaria,Q2396053,Council of Ministers
