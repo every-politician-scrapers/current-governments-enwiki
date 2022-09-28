@@ -1,9 +1,7 @@
 cabinet,cabinetLabel,start,startPrecision,end,endPrecision,jurisdiction,jurisdictionLabel,country,countryLabel,isa,isaLabel
-Q111452281,Government of Pedro Pierluisi Urrutia,,,,,,,,,,
 Q111973484,List of current governments,,,,,,,,,Q13406463,Wikimedia list article
 Q12208534,Cabinet of Morocco,,,,,Q1028,Morocco,,,,
 Q16148206,Cabinet of Uganda,,,,,Q1036,Uganda,,,,
-Q2607174,Federal Cabinet of Pakistan,,,,,Q843,Pakistan,,,,
 Q4710950,Albert Pahimi Padacké,,,,,,,,,Q5,human
 Q5015520,Cabinet of Jamaica,,,,,Q766,Jamaica,Q766,Jamaica,,
 Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
@@ -17,7 +15,6 @@ Q15579106,Cabinet of Hun Sen,2013-09-24,11,,,Q424,Cambodia,,,Q18210582,Cabinet o
 Q21188948,29th Canadian Ministry,2015-11-04,11,,,Q16,Canada,Q16,Canada,Q2458227,Cabinet of Canada
 Q28419419,Hamas government of 2016,2016-10-17,11,2016-11-30,11,Q39760,Gaza Strip,,,Q640506,cabinet
 Q39054343,1st Cabinet of Nana Akuffo-Addo,2017-05-01,10,2021-03-04,11,Q117,Ghana,Q117,Ghana,Q47092681,Cabinet of Ghana
-Q30279918,Cabinet Günther,2017-06-28,11,2022-06-29,11,Q1194,Schleswig-Holstein,,,Q640506,cabinet
 Q113115761,Horgan ministry,2017-07-18,11,,,Q1973,British Columbia,,,Q5419816,Executive Council of British Columbia
 Q42314738,Sixth Labour Government of New Zealand,2017-10-26,11,,,Q664,New Zealand,Q664,New Zealand,Q2932373,Cabinet of New Zealand
 Q42314738,Sixth Labour Government of New Zealand,2017-10-26,11,,,Q664,New Zealand,Q664,New Zealand,Q3526359,Government of New Zealand
@@ -84,6 +81,7 @@ Q109255408,Hajiji cabinet,2020-10-29,11,,,Q179029,Sabah,Q833,Malaysia,Q640506,ca
 Q109037626,Fourth Sall Cabinet,2020-11-01,11,2022-09-17,11,Q1041,Senegal,,,Q109927108,Cabinet of Senegal
 Q101230919,Arce Cabinet,2020-11-09,11,,,Q750,Bolivia,Q750,Bolivia,Q5015499,Cabinet of Bolivia
 Q101558001,Šimonytė Cabinet,2020-12-11,11,,,Q37,Lithuania,,,Q29078891,Cabinet of Lithuania
+Q111452281,Government of Pedro Pierluisi Urrutia,2021-01-02,11,,,,,,,Q7258678,Cabinet of Puerto Rico
 Q101369347,presidency of Joe Biden,2021-01-20,11,,,Q30,United States of America,Q30,United States of America,Q15284636,presidential term
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q327922,national unity government
 Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q3773971,Government of Italy
