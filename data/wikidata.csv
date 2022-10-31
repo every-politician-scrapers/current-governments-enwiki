@@ -23,13 +23,13 @@ Q48732683,Jai Ram Thakur ministry,2017-12-27,11,,,Q1177,Himachal Pradesh,Q668,In
 Q50083161,Second Anastasiades government,2018-03-01,11,2023-02-28,11,Q229,Cyprus,Q229,Cyprus,Q16146568,Council of Ministers of Cyprus
 Q50083161,Second Anastasiades government,2018-03-01,11,2023-02-28,11,Q229,Cyprus,Q229,Cyprus,Q19358292,Government of Cyprus Republic
 Q65279005,Asadov Cabinet,2018-04-01,10,,,Q227,Azerbaijan,Q227,Azerbaijan,Q13410372,Cabinet of Azerbaijan
-Q89269309,Ntsay Cabinet,2018-06-04,11,,,Q1019,Madagascar,Q1019,Madagascar,Q52988041,Government of Madagascar
+Q89269309,Ntsay Cabinet,2018-06-04,11,,,Q1019,Madagascar,Q1019,Madagascar,Q113560825,Cabinet of Madagascar
 Q54819597,VIII Constitutional Government of East Timor,2018-06-22,11,,,Q574,East Timor,Q574,East Timor,Q2137629,Cabinet of East Timor
 Q55435983,Cabinet Erdoğan IV,2018-07-10,11,,,Q43,Turkey,Q43,Turkey,Q12812333,Cabinet of Turkey
 Q60785385,Second Mnangagwa cabinet,2018-09-10,11,,,Q954,Zimbabwe,Q954,Zimbabwe,Q5015575,Cabinet of Zimbabwe
 Q58212488,Cabinet Söder II,2018-11-06,11,,,Q980,Bavaria,,,Q314729,state government in Germany
 Q56274194,Presidency of Andrés Manuel López Obrador,2018-12-01,11,,,Q96,Mexico,Q96,Mexico,Q15284636,presidential term
-Q59461371,Bettel–Schneider Government II,2018-12-05,11,,,Q32,Luxembourg,Q32,Luxembourg,Q21479996,Government of Luxembourg
+Q59461371,Bettel–Schneider Government II,2018-12-05,11,,,Q32,Luxembourg,Q32,Luxembourg,Q25056658,Government Council of Luxembourg
 Q58493777,government of Jair Bolsonaro,2019-01-01,11,2023-01-01,11,Q155,Brazil,Q155,Brazil,Q15284636,presidential term
 Q60852905,Ngute Cabinet,2019-01-04,11,,,Q1009,Cameroon,,,Q5026456,Government of Cameroon
 Q60853935,First Moreno Government,2019-01-18,11,2022-07-26,11,Q5783,Andalusia,Q29,Spain,Q2746357,Consejo de Gobierno de la Junta de Andalucía
@@ -38,7 +38,6 @@ Q97190793,Murad Ebrahim Cabinet,2019-02-26,11,,,Q806550,Bangsamoro,,,Q640506,cab
 Q108582408,Presidency of Kassym-Jomart Tokayev,2019-03-20,11,,,Q232,Kazakhstan,Q232,Kazakhstan,Q15284636,presidential term
 Q106076357,14th Cabinet of North Korea,2019-04-11,11,,,Q423,North Korea,Q423,North Korea,Q1937145,Cabinet of North Korea
 Q87367437,Palestinian government of 2019,2019-04-13,11,,,Q219060,State of Palestine,Q219060,State of Palestine,Q640506,cabinet
-Q104868621,Kenney cabinet,2019-04-30,11,,,Q1951,Alberta,,,Q640506,cabinet
 Q64167569,Second Cabinet of Cyril Ramaphosa,2019-05-29,11,,,Q258,South Africa,Q258,South Africa,Q634678,Cabinet of South Africa
 Q65046006,Second Pema Khandu ministry,2019-05-29,11,,,Q1162,Arunachal Pradesh,,,Q640506,cabinet
 Q64210877,Second Modi ministry,2019-05-30,11,,,Q668,India,,,Q960484,Union Council of Ministers of India
@@ -59,12 +58,13 @@ Q77972346,Sanna Marin's cabinet,2019-12-10,11,,,Q33,Finland,Q33,Finland,Q2366737
 Q77972346,Sanna Marin's cabinet,2019-12-10,11,,,Q33,Finland,Q33,Finland,Q2455328,majority government
 Q78155250,presidency of Alberto Fernández,2019-12-10,11,,,,,Q414,Argentina,Q3558349,presidency
 Q97256455,Cabinet of Zoran Tegeltija,2019-12-23,11,,,Q225,Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Q5176455,Council of Ministers of Bosnia and Herzegovina
-Q80922158,Sánchez II Government,2020-01-13,11,,,Q29,Spain,Q29,Spain,Q1194749,Government of Spain
+Q80922158,Sánchez II Government,2020-01-13,11,,,Q29,Spain,Q29,Spain,Q3058576,Council of Ministers of Spain
 Q66380860,Cabinet of Alejandro Giammattei,2020-01-14,11,,,Q774,Guatemala,,,Q2879802,Council of Ministers
 Q82455849,Mikhail Mishustin's Cabinet,2020-01-21,11,,,Q159,Russia,Q159,Russia,Q1140115,Government of Russia
 Q87070710,Shmyhal Government,2020-03-04,11,,,Q212,Ukraine,Q212,Ukraine,Q613729,Cabinet of Ministers of Ukraine
 Q95422886,Second Jacobs cabinet,2020-03-28,11,,,Q26273,Sint Maarten,Q29999,Kingdom of the Netherlands,Q640506,cabinet
-Q100258471,Al-Kadhimi Government,2020-05-06,11,,,Q796,Iraq,Q796,Iraq,Q4118391,Iraqi Council of Ministers
+Q100258471,Al-Kadhimi Government,2020-05-06,11,2022-10-27,11,Q796,Iraq,Q796,Iraq,Q7188,government
+Q100258471,Al-Kadhimi Government,2020-05-06,11,2022-10-27,11,Q796,Iraq,Q796,Iraq,Q4118391,Iraqi Council of Ministers
 Q96405231,Second Harutyunyan government,2020-05-21,11,,,Q244165,Republic of Artsakh,,,Q4375973,Government of Artsakh
 Q47090619,Martin ministry,2020-06-27,11,,,Q27,Republic of Ireland,Q27,Republic of Ireland,Q1672817,Government of Ireland
 Q97516131,Ndayishimiye cabinet,2020-06-28,11,,,Q967,Burundi,Q967,Burundi,Q16952177,Council of Ministers
@@ -73,22 +73,19 @@ Q96872687,Castex government,2020-07-03,11,2022-05-16,11,Q142,France,Q142,France,
 Q97482082,Cabinet Santkohi,2020-07-16,11,2025-01-01,9,Q730,Suriname,Q730,Suriname,Q105688805,Cabinet of Suriname
 Q97652364,Cabinet of Andrej Plenković II,2020-07-23,11,,,Q224,Croatia,Q224,Croatia,Q1278383,Government of Croatia
 Q97667547,Fifth Lee Hsien Loong Cabinet,2020-07-27,11,,,Q334,Singapore,Q334,Singapore,Q5015558,Cabinet of Singapore
-Q99749625,De Croo government,2020-10-01,11,,,Q31,Belgium,Q31,Belgium,Q390947,Federal Government of Belgium
+Q99749625,De Croo government,2020-10-01,11,,,Q31,Belgium,Q31,Belgium,Q19601543,Council of Ministers
 Q100261677,Bisher Al-Khasawneh Cabinet,2020-10-12,11,,,Q810,Jordan,Q810,Jordan,Q5015522,Cabinet of Jordan
 Q104865347,Zaia III Government,2020-10-16,11,,,Q1243,Veneto,Q38,Italy,Q1802419,state government
-Q100858235,Second cabinet of Ana Brnabić,2020-10-28,11,,,Q403,Serbia,Q403,Serbia,Q30301644,Cabinet of Serbia
 Q109255408,Hajiji cabinet,2020-10-29,11,,,Q179029,Sabah,Q833,Malaysia,Q640506,cabinet
 Q109037626,Fourth Sall Cabinet,2020-11-01,11,2022-09-17,11,Q1041,Senegal,,,Q109927108,Cabinet of Senegal
 Q101230919,Arce Cabinet,2020-11-09,11,,,Q750,Bolivia,Q750,Bolivia,Q5015499,Cabinet of Bolivia
 Q101558001,Šimonytė Cabinet,2020-12-11,11,,,Q37,Lithuania,,,Q29078891,Cabinet of Lithuania
 Q111452281,Government of Pedro Pierluisi Urrutia,2021-01-02,11,,,,,,,Q7258678,Cabinet of Puerto Rico
 Q101369347,presidency of Joe Biden,2021-01-20,11,,,Q30,United States of America,Q30,United States of America,Q15284636,presidential term
-Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q327922,national unity government
-Q105460407,Draghi Cabinet,2021-02-13,11,,,Q38,Italy,Q38,Italy,Q3773971,Government of Italy
 Q110612600,Second Garibashvili government,2021-02-22,11,,,Q230,Georgia,Q230,Georgia,Q7188,government
 Q110612600,Second Garibashvili government,2021-02-22,11,,,Q230,Georgia,Q230,Georgia,Q2613132,Government of Georgia
 Q113638573,Government of National Stability,2021-03-10,11,,,Q1016,Libya,Q1016,Libya,Q640506,cabinet
-Q105742549,Government of National Unity,2021-03-15,11,,,Q1016,Libya,Q1016,Libya,Q59281,provisional government
+Q105742549,Government of National Unity,2021-03-15,11,,,Q1016,Libya,Q1016,Libya,Q3111812,Cabinet of Libya
 Q106131506,Second Kurti cabinet,2021-03-22,11,,,Q1246,Kosovo,Q1246,Kosovo,Q107600990,Cabinet of Kosovo
 Q106303161,Heger's Cabinet,2021-04-01,11,,,Q214,Slovakia,Q214,Slovakia,Q3495267,Government of Slovakia
 Q109037622,Mahamadou Cabinet,2021-04-07,11,,,Q1032,Niger,,,Q5015537,Cabinet of Niger
@@ -116,13 +113,13 @@ Q108441164,Rama III Government,2021-09-17,11,,,Q222,Albania,Q222,Albania,Q330293
 Q108866852,Bouden Cabinet,2021-10-11,11,,,Q948,Tunisia,Q948,Tunisia,Q526548,Government of Tunisia
 Q109255623,Third Jarapov Cabinet,2021-10-13,11,,,Q813,Kyrgyzstan,Q813,Kyrgyzstan,Q24031608,Cabinet of Ministers of Kyrgyzstan
 Q108870524,Støre's Cabinet,2021-10-14,11,,,Q20,Norway,Q20,Norway,Q1770849,Government of Norway
-Q109046275,Béavogui Cabinet,2021-10-21,11,,,Q1006,Guinea,Q1006,Guinea,Q52898208,Government of Guinea
+Q109046275,Béavogui Cabinet,2021-10-21,11,2022-08-20,11,Q1006,Guinea,Q1006,Guinea,Q52898208,Government of Guinea
 Q109502333,Q109502333,2021-11-15,11,,,Q1196,Mecklenburg-Western Pomerania,,,Q640506,cabinet
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q837416,coalition government
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q12406825,rotation government
 Q109680585,Ciucă Cabinet,2021-11-25,11,,,Q218,Romania,Q218,Romania,Q30301632,Cabinet of Romania
 Q109806885,Second cabinet of Katrín Jakobsdóttir,2021-11-28,11,,,Q189,Iceland,Q189,Iceland,Q3354110,Cabinet of Iceland
-Q109705067,Andersson Cabinet,2021-11-30,11,,,Q34,Sweden,Q34,Sweden,Q930729,Government of Sweden
+Q109705067,Andersson Cabinet,2021-11-30,11,2022-10-18,11,Q34,Sweden,Q34,Sweden,Q930729,Government of Sweden
 Q109907459,Nehammer government,2021-12-06,11,,,Q40,Austria,Q40,Austria,Q695599,Austrian Federal Government
 Q109712556,Scholz cabinet,2021-12-08,11,,,Q183,Germany,Q183,Germany,Q313827,Cabinet of the Federal Republic of Germany
 Q110026114,Petkov Government,2021-12-13,11,2022-08-02,11,Q219,Bulgaria,,,Q2396053,Council of Ministers
@@ -138,7 +135,7 @@ Q111439067,2nd Abela Cabinet,2022-03-30,11,,,Q233,Malta,Q233,Malta,Q3112083,Cabi
 Q113115745,Second government of Mohamed Ould Bilal,2022-04-01,11,,,Q1025,Mauritania,,,Q3112595,Government of Mauritania
 Q111486937,Second Egede cabinet,2022-04-05,11,,,Q223,Greenland,,,Q10858355,Naalakkersuisut
 Q111655375,Shehbaz Sharif Cabinet,2022-04-19,11,,,Q843,Pakistan,,,Q2607174,Federal Cabinet of Pakistan
-Q113484606,Achi II government,2022-04-20,11,,,Q1008,Ivory Coast,Q1008,Ivory Coast,Q640506,cabinet
+Q113484606,Achi II government,2022-04-20,11,,,Q1008,Ivory Coast,Q1008,Ivory Coast,Q3138408,Cabinet of Ivory Coast
 Q111993595,Cabinet of Yoon Suk-yeol,2022-05-10,11,,,Q884,South Korea,Q884,South Korea,Q12585780,State Council of South Korea
 Q112169101,Manik Saha ministry,2022-05-14,11,,,Q1363,Tripura,,,Q640506,cabinet
 Q112042684,1st Borne government,2022-05-16,11,,,Q142,France,,,Q1450662,Government of France
@@ -153,7 +150,11 @@ Q113136898,Kaja Kallas' second cabinet,2022-07-18,11,,,Q191,Estonia,Q191,Estonia
 Q113236919,Wickremesinghe cabinet,2022-07-22,11,,,Q854,Sri Lanka,Q854,Sri Lanka,Q3783006,Cabinet of Sri Lanka
 Q113376096,Donev Government,2022-08-02,11,,,Q219,Bulgaria,Q219,Bulgaria,Q2396053,Council of Ministers
 Q112642528,Cabinet of Gustavo Petro,2022-08-07,11,,,Q739,Colombia,Q739,Colombia,Q3315497,Council of Ministers of Colombia
-Q114347880,Presidency of Gustavo Petro,2022-08-07,11,,,Q739,Colombia,Q739,Colombia,Q3558349,presidency
+Q112643269,Government of Gustavo Petro,2022-08-07,11,,,,,Q739,Colombia,Q7188,government
 Q113486956,Drew Cabinet,2022-08-09,11,,,Q763,Saint Kitts and Nevis,Q763,Saint Kitts and Nevis,Q107986344,Cabinet of Saint Kitts and Nevis
 Q113462430,Second Kishida Cabinet (reshuffled),2022-08-10,11,,,Q17,Japan,Q17,Japan,Q529012,Cabinet of Japan
-Q113731018,Truss ministry,2022-09-06,11,,,,,Q145,United Kingdom,Q112014,Cabinet of the United Kingdom
+Q114821172,Smith Ministry,2022-10-11,11,,,,,,,Q5419815,Cabinet of Alberta
+Q114796219,Meloni Cabinet,2022-10-22,11,,,Q38,Italy,Q38,Italy,Q837416,coalition government
+Q114796219,Meloni Cabinet,2022-10-22,11,,,Q38,Italy,Q38,Italy,Q3687318,Council of Ministers of Italy
+Q114838778,Sunak ministry,2022-10-25,11,,,,,Q145,United Kingdom,Q112014,Cabinet of the United Kingdom
+Q114825866,Third cabinet of Ana Brnabić,2022-10-26,11,,,Q403,Serbia,Q403,Serbia,Q30301644,Cabinet of Serbia
