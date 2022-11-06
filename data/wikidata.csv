@@ -8,6 +8,7 @@ Q5015577,Cabinet of the Bahamas,,,,,Q778,The Bahamas,,,,
 Q603838,Cabinet of Afghanistan,,,,,Q889,Afghanistan,,,,
 Q997640,Council of Ministers of the Republic of Belarus,,,,,Q184,Belarus,Q184,Belarus,Q7188,government
 Q997640,Council of Ministers of the Republic of Belarus,,,,,Q184,Belarus,Q184,Belarus,Q35798,executive branch
+,,,,,,,,,,,
 Q2137649,Cabinet of Liechtenstein,1921-01-01,9,,,Q347,Liechtenstein,Q347,Liechtenstein,Q7188,government
 Q13410372,Cabinet of Azerbaijan,1991-01-01,9,,,Q227,Azerbaijan,Q227,Azerbaijan,Q7188,government
 Q10871995,Li Keqiang Government,2013-03-15,11,,,Q148,People's Republic of China,Q148,People's Republic of China,Q936190,Government of the People's Republic of China
@@ -67,8 +68,6 @@ Q100258471,Al-Kadhimi Government,2020-05-06,11,2022-10-27,11,Q796,Iraq,Q796,Iraq
 Q96405231,Second Harutyunyan government,2020-05-21,11,,,Q244165,Republic of Artsakh,,,Q4375973,Government of Artsakh
 Q47090619,Martin ministry,2020-06-27,11,,,Q27,Republic of Ireland,Q27,Republic of Ireland,Q1672817,Government of Ireland
 Q97516131,Ndayishimiye cabinet,2020-06-28,11,,,Q967,Burundi,Q967,Burundi,Q16952177,Council of Ministers
-Q96872687,Castex government,2020-07-03,11,2022-05-16,11,Q142,France,Q142,France,Q1450662,Government of France
-Q96872687,Castex government,2020-07-03,11,2022-05-16,11,Q142,France,Q142,France,Q2993836,Council of Ministers
 Q97482082,Cabinet Santkohi,2020-07-16,11,2025-01-01,9,Q730,Suriname,Q730,Suriname,Q105688805,Cabinet of Suriname
 Q97652364,Cabinet of Andrej Plenković II,2020-07-23,11,,,Q224,Croatia,Q224,Croatia,Q1278383,Government of Croatia
 Q97667547,Fifth Lee Hsien Loong Cabinet,2020-07-27,11,,,Q334,Singapore,Q334,Singapore,Q5015558,Cabinet of Singapore
@@ -123,7 +122,6 @@ Q109907459,Nehammer government,2021-12-06,11,,,Q40,Austria,Q40,Austria,Q695599,A
 Q109712556,Scholz cabinet,2021-12-08,11,,,Q183,Germany,Q183,Germany,Q313827,Cabinet of the Federal Republic of Germany
 Q110026114,Petkov Government,2021-12-13,11,2022-08-02,11,Q219,Bulgaria,,,Q2396053,Council of Ministers
 Q109453202,Petr Fiala's Cabinet,2021-12-17,11,,,Q213,Czech Republic,Q213,Czech Republic,Q5015587,Government of the Czech Republic
-Q110300636,39th Cabinet of Kuwait,2021-12-28,11,2022-08-01,11,Q817,Kuwait,,,Q5015525,Cabinet of Kuwait
 Q110111120,Fourth Rutte cabinet,2022-01-10,11,,,Q55,Netherlands,Q55,Netherlands,Q2479200,Cabinet of the Netherlands
 Q110534538,Smaiylov Cabinet,2022-01-11,11,,,Q232,Kazakhstan,Q232,Kazakhstan,Q21686038,Cabinet of Kazakhstan
 Q110666433,Patriotic Movement for Safeguard and Restoration,2022-01-24,11,,,Q965,Burkina Faso,Q965,Burkina Faso,Q59281,provisional government
